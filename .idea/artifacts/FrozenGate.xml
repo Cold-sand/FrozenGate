@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FrozenGate">
+    <output-path>$USER_HOME$/Minecraft/Server/Develop Test(1.19.4)/server/plugins</output-path>
+    <root id="archive" name="FrozenGate.jar">
+      <element id="module-output" name="FrozenGate" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

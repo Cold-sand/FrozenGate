@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.42131618" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FrozenGate" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e033aba5-bab9-4e17-b9e6-973d97db6dc2" name="Changes" comment="uodate README.md" />
+    <list id="bcee55c3-ec6a-4aaf-a662-023db5157be6" name="cookie 进行的变更" comment="Updata" />
+    <list id="4ef8928c-3571-4fd3-b676-aa885ab376e4" name="cookie 进行的更改" comment="" />
+    <list id="a02f269f-8699-4f16-b09c-c4fef9a0b35c" name="jkl-9 进行的更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Cold_sand" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="95ff7f33-4f87-4a23-8b2f-91f3ef558d01" />
+        <option name="url" value="https://github.com/coldsandcat/FrozenGate.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/top/coldsand/frozengate/command/LoginCommand.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/top/coldsand/frozengate/data/StorageInterface.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.9.2" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.9.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2KPfyBW73eCOk3VQ1IFbq51WSK7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Sequence&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cold_sand/code/Spigot plugin develop/FrozenGate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.339&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localReportPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="$PROJECT_DIR$/qodana.sarif.json" />
+        <option name="reportGuid" value="e886038c-a007-47db-b828-2a63dabba0e1" />
+        <option name="reportName" value="FrozenGate/qodana/2023-08-09" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription path="$PROJECT_DIR$/qodana.sarif.json" reportGuid="e886038c-a007-47db-b828-2a63dabba0e1" reportId="FrozenGate/qodana/2023-08-09" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="top.coldsand.frozengate.account.AccountService" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="top.coldsand.frozengate.data.configyml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Minecraft Server Debug(paper 1.20.1)" type="JarApplication">
+      <option name="JAR_PATH" value="$USER_HOME$/Minecraft/Server/Develop Test(1.20.1)/server/paper-1.20.1.jar" />
+      <option name="VM_PARAMETERS" value="-Xms6G -Xmx6G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=35 -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -Dusing.aikars.flags=mcflags.emc.gs -Dspring.output.ansi.enabled=ALWAYS -Dconsole-available=true " />
+      <option name="PROGRAM_PARAMETERS" value="nogui" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Minecraft/Server/Develop Test(1.20.1)/server" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="FrozenGate" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e033aba5-bab9-4e17-b9e6-973d97db6dc2" name="Changes" comment="" />
+      <created>1673881391854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673881391854</updated>
+      <workItem from="1673881393319" duration="365000" />
+      <workItem from="1673881823708" duration="22000" />
+      <workItem from="1673917564866" duration="173000" />
+      <workItem from="1673917746834" duration="948000" />
+      <workItem from="1673919933844" duration="143000" />
+      <workItem from="1674014350067" duration="52000" />
+      <workItem from="1674104156297" duration="599000" />
+      <workItem from="1674551275975" duration="8067000" />
+      <workItem from="1674814665870" duration="73000" />
+      <workItem from="1674815241169" duration="1816000" />
+      <workItem from="1674818140075" duration="3418000" />
+      <workItem from="1674821933723" duration="4660000" />
+      <workItem from="1674882329199" duration="101000" />
+      <workItem from="1674882653808" duration="28000" />
+      <workItem from="1674882699595" duration="68000" />
+      <workItem from="1674882779719" duration="222000" />
+      <workItem from="1674883170189" duration="10000" />
+      <workItem from="1674913237444" duration="3689000" />
+      <workItem from="1675050305565" duration="38000" />
+      <workItem from="1675050445968" duration="45000" />
+      <workItem from="1675330186325" duration="3652000" />
+      <workItem from="1675350376458" duration="111000" />
+      <workItem from="1675440997781" duration="11000" />
+      <workItem from="1675510246257" duration="56000" />
+      <workItem from="1675510313644" duration="124000" />
+      <workItem from="1676033277039" duration="599000" />
+      <workItem from="1677165429060" duration="77000" />
+      <workItem from="1677310301401" duration="798000" />
+      <workItem from="1677861061654" duration="40000" />
+      <workItem from="1677861118247" duration="86000" />
+      <workItem from="1678114500970" duration="604000" />
+      <workItem from="1678435401394" duration="534000" />
+      <workItem from="1678463678720" duration="147000" />
+      <workItem from="1678539899572" duration="1973000" />
+      <workItem from="1678541915571" duration="1690000" />
+      <workItem from="1679072929213" duration="29000" />
+      <workItem from="1679072978991" duration="464000" />
+      <workItem from="1682180016000" duration="86000" />
+      <workItem from="1682180143038" duration="21000" />
+      <workItem from="1682180172701" duration="17000" />
+      <workItem from="1682180199074" duration="13000" />
+      <workItem from="1682180220667" duration="1465000" />
+      <workItem from="1682442589419" duration="1016000" />
+      <workItem from="1682608791688" duration="786000" />
+      <workItem from="1682611354198" duration="6000" />
+      <workItem from="1682699791198" duration="1315000" />
+      <workItem from="1682827415464" duration="36000" />
+      <workItem from="1682827468483" duration="759000" />
+      <workItem from="1682876034340" duration="66000" />
+      <workItem from="1683024941396" duration="227000" />
+      <workItem from="1683639599684" duration="4686000" />
+      <workItem from="1683892901862" duration="24000" />
+      <workItem from="1683892990695" duration="601000" />
+      <workItem from="1683968451435" duration="791000" />
+      <workItem from="1683969571605" duration="684000" />
+      <workItem from="1683970303115" duration="6943000" />
+      <workItem from="1683984108051" duration="656000" />
+      <workItem from="1683984771331" duration="8000" />
+      <workItem from="1683987854185" duration="9000" />
+      <workItem from="1683987923664" duration="7000" />
+      <workItem from="1684166942225" duration="337000" />
+      <workItem from="1684326609943" duration="201000" />
+      <workItem from="1684499058297" duration="630000" />
+      <workItem from="1684499877467" duration="861000" />
+      <workItem from="1684501005894" duration="6281000" />
+      <workItem from="1684512017380" duration="17000" />
+      <workItem from="1684512041847" duration="650000" />
+      <workItem from="1684596258929" duration="449000" />
+      <workItem from="1684596721002" duration="11000" />
+      <workItem from="1684596903073" duration="3057000" />
+      <workItem from="1684683260878" duration="11056000" />
+      <workItem from="1684858040540" duration="1475000" />
+      <workItem from="1684861000202" duration="406000" />
+      <workItem from="1684861417417" duration="2557000" />
+      <workItem from="1684944387759" duration="8000" />
+      <workItem from="1684946570742" duration="3600000" />
+      <workItem from="1685031732170" duration="10246000" />
+      <workItem from="1685118374228" duration="4886000" />
+      <workItem from="1685204074154" duration="100000" />
+      <workItem from="1685204188376" duration="3405000" />
+      <workItem from="1685289863486" duration="922000" />
+      <workItem from="1685551489813" duration="1301000" />
+      <workItem from="1685637515800" duration="31000" />
+      <workItem from="1685637559756" duration="202000" />
+      <workItem from="1685811025979" duration="62000" />
+      <workItem from="1685811099432" duration="2378000" />
+      <workItem from="1685897474806" duration="1634000" />
+      <workItem from="1686329092145" duration="793000" />
+      <workItem from="1686847663890" duration="619000" />
+      <workItem from="1686849601846" duration="865000" />
+      <workItem from="1686850509497" duration="6000" />
+      <workItem from="1687584072909" duration="4000" />
+      <workItem from="1687584104733" duration="2088000" />
+      <workItem from="1687626854819" duration="597000" />
+      <workItem from="1689138332897" duration="31000" />
+      <workItem from="1689138375962" duration="2980000" />
+      <workItem from="1689267854900" duration="1210000" />
+      <workItem from="1689352661353" duration="110000" />
+      <workItem from="1689352782146" duration="188000" />
+      <workItem from="1689440472368" duration="180000" />
+      <workItem from="1689526198165" duration="80000" />
+      <workItem from="1689526281331" duration="96000" />
+      <workItem from="1689526385610" duration="92000" />
+      <workItem from="1689526480197" duration="23000" />
+      <workItem from="1689526590543" duration="137000" />
+      <workItem from="1689526775807" duration="24492000" />
+      <workItem from="1690107902597" duration="35000" />
+      <workItem from="1690107947643" duration="945000" />
+      <workItem from="1690117922230" duration="1023000" />
+      <workItem from="1690159036194" duration="5874000" />
+      <workItem from="1690261290246" duration="425000" />
+      <workItem from="1690261752237" duration="119000" />
+      <workItem from="1690261895090" duration="97000" />
+      <workItem from="1690262001748" duration="3130000" />
+      <workItem from="1690297667853" duration="5237000" />
+      <workItem from="1690443066644" duration="6683000" />
+      <workItem from="1690506936134" duration="674000" />
+      <workItem from="1690530029184" duration="124000" />
+      <workItem from="1690530164845" duration="6497000" />
+      <workItem from="1690557496282" duration="420000" />
+      <workItem from="1690615843919" duration="6931000" />
+      <workItem from="1690706153536" duration="9561000" />
+      <workItem from="1690791803015" duration="6915000" />
+      <workItem from="1690878123540" duration="8264000" />
+      <workItem from="1690965493196" duration="3327000" />
+      <workItem from="1690986941981" duration="35019000" />
+      <workItem from="1691028154746" duration="9052000" />
+      <workItem from="1691425443738" duration="251000" />
+      <workItem from="1691425907527" duration="4000" />
+      <workItem from="1691425920823" duration="210000" />
+      <workItem from="1691426158080" duration="200000" />
+      <workItem from="1691426361617" duration="3615000" />
+      <workItem from="1691490411914" duration="108000" />
+      <workItem from="1691490531255" duration="778000" />
+      <workItem from="1691508798267" duration="9063000" />
+      <workItem from="1691572595069" duration="600000" />
+      <workItem from="1691658097631" duration="1891000" />
+      <workItem from="1691675402077" duration="713000" />
+      <workItem from="1691676268371" duration="498000" />
+      <workItem from="1691711086280" duration="1379000" />
+      <workItem from="1691720858787" duration="851000" />
+      <workItem from="1691722875495" duration="3898000" />
+      <workItem from="1691816632469" duration="1019000" />
+      <workItem from="1691822379837" duration="2877000" />
+      <workItem from="1691980954844" duration="3520000" />
+      <workItem from="1691992642786" duration="1979000" />
+      <workItem from="1692090675358" duration="427000" />
+      <workItem from="1692091114092" duration="1341000" />
+      <workItem from="1692199547960" duration="26000" />
+      <workItem from="1692199585274" duration="1321000" />
+      <workItem from="1692283522060" duration="2702000" />
+      <workItem from="1692368244586" duration="2548000" />
+      <workItem from="1692450506941" duration="4049000" />
+      <workItem from="1692797574544" duration="782000" />
+      <workItem from="1692858482374" duration="1838000" />
+      <workItem from="1692863415028" duration="1571000" />
+      <workItem from="1692922885998" duration="111000" />
+      <workItem from="1692975186389" duration="513000" />
+      <workItem from="1693064406987" duration="707000" />
+      <workItem from="1693065128618" duration="2508000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1674916524645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674916524645</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updata">
+      <created>1674916560888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674916560888</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1685124306661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685124306661</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <option name="closed" value="true" />
+      <created>1690720059647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690720059647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加了安全位置转移功能，提升了代码的可读性与健壮性">
+      <option name="closed" value="true" />
+      <created>1691075309403</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691075309403</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提升代码可读性，REDEME.md区分中文版与英文版">
+      <option name="closed" value="true" />
+      <created>1691572167561</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691572167561</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提升代码可读性，修改增添注释">
+      <option name="closed" value="true" />
+      <created>1691658960784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691658960784</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提升代码可读性，修改增添注释">
+      <option name="closed" value="true" />
+      <created>1691675465770</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691675465770</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update REDEME.chinese.md">
+      <option name="closed" value="true" />
+      <created>1691765878805</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691765878805</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改注释，修正错别字">
+      <option name="closed" value="true" />
+      <created>1691822449200</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691822449200</updated>
+    </task>
+    <task id="LOCAL-00011" summary="uodate README.md">
+      <option name="closed" value="true" />
+      <created>1691832085292</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691832085292</updated>
+    </task>
+    <task id="LOCAL-00012" summary="uodate README.md">
+      <option name="closed" value="true" />
+      <created>1691832150259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691832150259</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Updata" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="添加了安全位置转移功能，提升了代码的可读性与健壮性" />
+    <MESSAGE value="提升代码可读性，REDEME.md区分中文版与英文版" />
+    <MESSAGE value="提升代码可读性，修改增添注释" />
+    <MESSAGE value="update REDEME.chinese.md" />
+    <MESSAGE value="修改注释，修正错别字" />
+    <MESSAGE value="uodate README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="uodate README.md" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

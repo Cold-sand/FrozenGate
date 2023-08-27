@@ -1,0 +1,15 @@
+name: FrozenGate
+version: 0.1.0.230816_alpha
+main: top.coldsand.frozengate.FrozenGate
+api-version: 1.13
+
+commands:
+  login:
+    usage: "/login 密码 再次输入密码"
+    description: "登录您的账户"
+  register:
+    usage: "/register 密码"
+    description: "注册您的账户"
+  changepassword:
+    usage: "/changepassword 旧密码 新密码"
+    description: "修改您的密码"
