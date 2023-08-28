@@ -13,7 +13,7 @@ import top.coldsand.frozengate.data.yaml.Config;
  * 有关玩家安全位置搜索与传送的类
  *
  * @author Cold_sand
- * @date 2023/8/15
+ * @date 2023/8/27
  */
 public class SafePlayerLocation {
 

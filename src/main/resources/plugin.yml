@@ -1,5 +1,5 @@
 name: FrozenGate
-version: 0.1.0.230816_alpha
+version: 0.1.0_230828_alpha
 main: top.coldsand.frozengate.FrozenGate
 api-version: 1.13
 

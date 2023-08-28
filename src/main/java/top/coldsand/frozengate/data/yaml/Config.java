@@ -10,7 +10,7 @@ import top.coldsand.frozengate.data.StorageManager;
  * 默认配置文件服务类
  *
  * @author Cold_sand
- * @date 2023/8/16
+ * @date 2023/8/27
  */
 public class Config{
 

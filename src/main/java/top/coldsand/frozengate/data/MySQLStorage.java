@@ -1,13 +1,9 @@
 package top.coldsand.frozengate.data;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.UUID;
 import top.coldsand.frozengate.data.yaml.Config;
+
+import java.sql.*;
+import java.util.UUID;
 
 
 /**
@@ -15,7 +11,7 @@ import top.coldsand.frozengate.data.yaml.Config;
  * Mysql数据库服务类，继承StorageInterface接口
  *
  * @author Cold_sand
- * @date 2023/8/16
+ * @date 2023/8/27
  */
 public class MySQLStorage implements StorageInterface{
 

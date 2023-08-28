@@ -7,7 +7,7 @@ import java.util.UUID;
  * 有关数据库存储服务接口
  *
  * @author Cold_sand
- * @date 2023/8/16
+ * @date 2023/8/27
  */
 public interface StorageInterface {
 

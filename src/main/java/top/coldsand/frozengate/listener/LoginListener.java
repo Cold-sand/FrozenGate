@@ -13,7 +13,7 @@ import top.coldsand.frozengate.tool.SafePlayerLocation;
  * 有关玩家登录登出事件的监听类
  *
  * @author Cold_sand
- * @date 2023/8/16
+ * @date 2023/8/27
  */
 public class LoginListener implements Listener {
     /**

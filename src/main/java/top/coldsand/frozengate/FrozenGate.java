@@ -19,7 +19,7 @@ import java.util.logging.Logger;
  * FrozenGate 插件主类
  *
  * @author Cold_sand
- * @date 2023/8/16
+ * @date 2023/8/27
  */
 public final class FrozenGate extends JavaPlugin {
     public static FrozenGate INSTANCE;

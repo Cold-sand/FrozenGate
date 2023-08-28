@@ -11,7 +11,7 @@ import java.util.Random;
  * 有关加密的类
  *
  * @author Cold_sand
- *
+ * @date 2023/8/27
  */
 public class EncryptionUtils {
     public static String getSalt() { //随机盐生成器

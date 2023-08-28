@@ -13,7 +13,7 @@ import top.coldsand.frozengate.account.LoginService;
  * 有关修改玩家密码的指令类
  *
  * @author Cold_sand
- * @date 2023/8/16
+ * @date 2023/8/27
  */
 public class ChangePasswordCommand implements CommandExecutor {
     @Override
